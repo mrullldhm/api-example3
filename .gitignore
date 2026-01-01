@@ -1,0 +1,5 @@
+node_modules
+todo.rest
+backend2.MD
+.env
+/src/generated/prisma
